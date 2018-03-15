@@ -5,6 +5,7 @@ body {
   font-family: 'Raleway', sans-serif;
   background-image: url("wallpaper.jpg");
   background-size: cover;
+  background-repeat: no-repeat;
 }
 
 #content, #header, #menubar, #footer {
