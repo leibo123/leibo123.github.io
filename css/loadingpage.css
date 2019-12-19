@@ -1,0 +1,19 @@
+body, html {
+	background-color: black;
+}
+
+#maincontent {
+	margin: 0 auto;
+	text-align: center;
+}
+
+img#loader {
+	margin-top: 10vh;
+	width: 40vw;
+	height: auto;
+}
+
+h1, h2, a, a:hover {
+	color: #999;
+	font-size: 18px;
+}

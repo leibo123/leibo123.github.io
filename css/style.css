@@ -9,15 +9,32 @@ body, html {
   -o-background-size: cover;
   background-size: cover;
   min-height: 101%;
+  margin: 0;
 }
 
 #content, #header, #menubar, #footer {
   max-width: 900px;
   margin: 0 auto;
+  padding: 0;
 }
 a {
   text-decoration: none;
   color: black;
+}
+
+#newsite {
+  margin: 0 auto;
+  text-align: center;
+  background-color: red;
+}
+
+#newsite h2 {
+  margin: 0px;
+  padding: 5px;
+}
+#newsite a {
+  text-decoration: underline;
+  color: yellow;
 }
 
 #header {
